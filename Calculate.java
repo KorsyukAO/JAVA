@@ -1,3 +1,6 @@
+/**
+	Класс для вычисления операций: сложения, вычитания умнажения, деления. Значения берутся из входного масива  
+*/
 public class Calculate {
 	public static void main(String[] arg) {
 		System.out.println("Hello word");
